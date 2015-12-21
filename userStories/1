@@ -1,0 +1,8 @@
+# User Story 1
+1. User enters a command in a terminal window:
+  - $`<journalingCommand> <J> [arg1 arg2 ...]`.
+1. Machine appropriately adds
+  - date
+  - specified metadata from arg1, arg2,... (metadata possibly describe contents of the journal-entry)
+  to the specified journal J.
+1. machine opens specified journal J to enter latest entry in an editor
